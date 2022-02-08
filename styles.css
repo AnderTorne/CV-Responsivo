@@ -100,8 +100,7 @@ body{
     text-transform: uppercase;
     color: #002335;
     font-size: 1rem;
-    padding-bottom: .3rem;
-
+    margin-bottom: 5px;
 }
 
 .sub-title{
@@ -180,19 +179,6 @@ body{
     position: relative;
     padding-bottom: 2rem;
 }
-
-/* .tl-title-2::before{
-    content: "";
-    position: absolute;
-    width: .7rem;
-    height: .7rem;
-    background-color: #2D9CDB;
-    border-radius: 50%;
-    transform: translateX(-50%);
-    left: 0;
-    top: 5%;
-} */
-
 
 @media (max-width: 1200px){
     .main-content{
